@@ -1,7 +1,6 @@
 #include <winsock2.h>
 #include <windows.h>
 #include <stdio.h>
-#include <string.h>
 
 
 //Compile with gcc.exe -o shell.exe shell.c -lws2_32 
