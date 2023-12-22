@@ -32,7 +32,6 @@ int main(int argc, char const *argv[])
     PROCESS_INFORMATION pi = { 0 };
     CreateProcessA(NULL, "cmd.exe", NULL, NULL, TRUE, 0, NULL, NULL, &si, &pi);
     return 0;
-    return 0;
 
 
     
